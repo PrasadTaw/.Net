@@ -1,0 +1,15 @@
+F:\Prasad_Shubham\dotnet_local_repo\.NET\Day13\ECommerce\DAL\bin\Debug\net7.0\DAL.deps.json
+F:\Prasad_Shubham\dotnet_local_repo\.NET\Day13\ECommerce\DAL\bin\Debug\net7.0\DAL.dll
+F:\Prasad_Shubham\dotnet_local_repo\.NET\Day13\ECommerce\DAL\bin\Debug\net7.0\DAL.pdb
+F:\Prasad_Shubham\dotnet_local_repo\.NET\Day13\ECommerce\DAL\bin\Debug\net7.0\BOL.dll
+F:\Prasad_Shubham\dotnet_local_repo\.NET\Day13\ECommerce\DAL\bin\Debug\net7.0\BOL.pdb
+F:\Prasad_Shubham\dotnet_local_repo\.NET\Day13\ECommerce\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+F:\Prasad_Shubham\dotnet_local_repo\.NET\Day13\ECommerce\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Prasad_Shubham\dotnet_local_repo\.NET\Day13\ECommerce\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+F:\Prasad_Shubham\dotnet_local_repo\.NET\Day13\ECommerce\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+F:\Prasad_Shubham\dotnet_local_repo\.NET\Day13\ECommerce\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+F:\Prasad_Shubham\dotnet_local_repo\.NET\Day13\ECommerce\DAL\obj\Debug\net7.0\DAL.csproj.CopyComplete
+F:\Prasad_Shubham\dotnet_local_repo\.NET\Day13\ECommerce\DAL\obj\Debug\net7.0\DAL.dll
+F:\Prasad_Shubham\dotnet_local_repo\.NET\Day13\ECommerce\DAL\obj\Debug\net7.0\refint\DAL.dll
+F:\Prasad_Shubham\dotnet_local_repo\.NET\Day13\ECommerce\DAL\obj\Debug\net7.0\DAL.pdb
+F:\Prasad_Shubham\dotnet_local_repo\.NET\Day13\ECommerce\DAL\obj\Debug\net7.0\ref\DAL.dll

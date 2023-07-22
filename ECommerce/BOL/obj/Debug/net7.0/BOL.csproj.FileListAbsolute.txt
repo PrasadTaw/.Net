@@ -1,0 +1,12 @@
+F:\Prasad_Shubham\dotnet_local_repo\.NET\Day13\ECommerce\BOL\bin\Debug\net7.0\BOL.deps.json
+F:\Prasad_Shubham\dotnet_local_repo\.NET\Day13\ECommerce\BOL\bin\Debug\net7.0\BOL.dll
+F:\Prasad_Shubham\dotnet_local_repo\.NET\Day13\ECommerce\BOL\bin\Debug\net7.0\BOL.pdb
+F:\Prasad_Shubham\dotnet_local_repo\.NET\Day13\ECommerce\BOL\obj\Debug\net7.0\BOL.csproj.AssemblyReference.cache
+F:\Prasad_Shubham\dotnet_local_repo\.NET\Day13\ECommerce\BOL\obj\Debug\net7.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Prasad_Shubham\dotnet_local_repo\.NET\Day13\ECommerce\BOL\obj\Debug\net7.0\BOL.AssemblyInfoInputs.cache
+F:\Prasad_Shubham\dotnet_local_repo\.NET\Day13\ECommerce\BOL\obj\Debug\net7.0\BOL.AssemblyInfo.cs
+F:\Prasad_Shubham\dotnet_local_repo\.NET\Day13\ECommerce\BOL\obj\Debug\net7.0\BOL.csproj.CoreCompileInputs.cache
+F:\Prasad_Shubham\dotnet_local_repo\.NET\Day13\ECommerce\BOL\obj\Debug\net7.0\BOL.dll
+F:\Prasad_Shubham\dotnet_local_repo\.NET\Day13\ECommerce\BOL\obj\Debug\net7.0\refint\BOL.dll
+F:\Prasad_Shubham\dotnet_local_repo\.NET\Day13\ECommerce\BOL\obj\Debug\net7.0\BOL.pdb
+F:\Prasad_Shubham\dotnet_local_repo\.NET\Day13\ECommerce\BOL\obj\Debug\net7.0\ref\BOL.dll
